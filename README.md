@@ -1,9 +1,14 @@
 # spring_boot
 
-Project layout
-Queue consumer producer
+- Project layout
+- Queue consumer producer
+
 	- external message broker
+
 	- consumer internal writes to elastic search
-Rest consumer producer
-Soap service
-Mongo write
+
+- Rest consumer producer
+
+- Soap service
+
+- Mongo write
